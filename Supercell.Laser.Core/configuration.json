@@ -1,0 +1,5 @@
+{
+	"environment": "prod",
+	"fingerprintSHA": "c33a3b511b50de0292708b790e3890fc657724ea",
+	"mongodbURL": "mongodb://localhost:27017"
+}
